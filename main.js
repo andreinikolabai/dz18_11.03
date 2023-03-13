@@ -11,3 +11,4 @@ let num = 5;
 let degree = 2;
 
 console.log(`${num} ^ ${degree} = ${pow(num, degree)}`);
+
